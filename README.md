@@ -2,6 +2,8 @@
 
 # LAB | #Promise me a dinner
 
+[![Automated Testing](https://github.com/Labs-IHWDFT/m2_d01-lab-es6_promise_me_a_dinner/actions/workflows/test.yml/badge.svg?branch=solution)](https://github.com/Labs-IHWDFT/m2_d01-lab-es6_promise_me_a_dinner/actions/workflows/test.yml)
+
 ## Introduction
 
 Due to the asynchronous nature of JavaScript, promises and callbacks are very important. Both allow us to control the flow of the operations and execute tasks in sequence.
@@ -24,7 +26,7 @@ Upon completion, run the following commands:
 ```shell
 $ git add .
 $ git commit -m "done"
-$ git push origin master
+$ git push origin main
 ```
 
 Create Pull Request so your TAs can check up your work.
